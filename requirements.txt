@@ -1,11 +1,10 @@
 streamlit>=1.37.0
 pandas>=2.2.0
 plotly>=5.22.0
+streamlit-plotly-events>=0.0.6
 streamlit-aggrid>=0.3.4
 rapidfuzz>=3.9.7
+openpyxl>=3.1.2
+xlsxwriter>=3.2.0
 pydantic>=2.8.2
-PyYAML>=6.0.1
-Pillow>=10.3.0
-openpyxl>=3.1.2           # <-- to read .xlsx (fixes your error)
-streamlit-plotly-events>=0.0.6  # <-- click-to-drill on charts
-
+numpy>=1.26.0
