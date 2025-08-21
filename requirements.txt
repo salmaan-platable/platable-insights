@@ -1,0 +1,9 @@
+streamlit>=1.37.0
+pandas>=2.2.0
+plotly>=5.22.0
+streamlit-aggrid>=0.3.4
+streamlit-plotly-events>=0.0.6
+rapidfuzz>=3.9.7
+openpyxl>=3.1.2
+xlsxwriter>=3.2.0
+numpy>=1.26.0
